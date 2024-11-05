@@ -1,9 +1,11 @@
-CentralParkApp
-	Description
-	This application consists of a backend API and a frontend interface. The backend is built using Spring Boot and handles image storage directly on the file system. The frontend, built with 		React, requires specific environment configurations for proper API communication.
+incorporates these instructions:
+
+Project Title
+Description
+This application consists of a backend API and a frontend interface. The backend is built using Spring Boot and handles image storage directly on the file system. The frontend, built with React, requires specific environment configurations for proper API communication.
 
 Prerequisites
-Java 17 for the backend
+Java 11+ for the backend
 Node.js and npm for the frontend
 Docker Desktop (optional, if using Dockerized MySQL setup)
 Backend Setup
